@@ -5,7 +5,7 @@ Create a visually compelling dashboard to monitor sales performance, customer re
 
 # We are using the faker library to generate the fake data  which looks so much real for the analysis.
 
-🔮 #What is Faker doing?
+🔮 What is Faker doing?
 
 The Faker library is used to generate realistic-looking fake data, like names, dates, and locations. It's super handy for testing and projects where you need sample data that feels real.
 
